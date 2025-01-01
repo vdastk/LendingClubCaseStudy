@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending CLub Cast Study
+> The purpose of this project is to analyse the consumer loan applications and identiy those applications and take actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 
 ## Table of Contents
@@ -11,38 +11,32 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The lending case study project essentially involves analysing the loan dataset provided to identify patterns and highlight applications which are risky to the business
+- This project is being submitted as part of ML C70 batch submission and applies the concepts Exploratory Data Analysis
+- The purpose of this analysis is to help the bank issuing these loans to do a better underwriting
+- The dtaset used here is provided with the case study and is called loan.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The conclusion from the project is provided in the PFF file in this repository
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project has been inspired by the bootcamp session and ML C70 session on EDA
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@vdastk] - feel free to contact me!
 
 
 <!-- Optional -->
